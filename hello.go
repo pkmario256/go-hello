@@ -1,4 +1,4 @@
-package hello
+package go_hello
 
 import (
 	quoteV3 "rsc.io/quote/v3"

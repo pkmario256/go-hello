@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/pkmario256/go-hello
 
 go 1.15
 
